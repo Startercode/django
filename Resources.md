@@ -1,6 +1,6 @@
 Resources
 ==================
-> Information needed to edit and create files needed for project
+> Information needed to edit and create files needed for a React/Django project
 ### Github
   - Markdown
     - Customize
