@@ -25,7 +25,7 @@ Project Checklist
   - Make sure to use *pip3* instead of pip to install virtual enviroment or any modules
 - [ ] Initiate Backend w/ [Django](https://docs.djangoproject.com/en/3.1/intro/tutorial01/)
 - [ ] Initiate Frontend w/ [React](https://reactjs.org/docs/create-a-new-react-app.html)
-- [ ] \**(Optional)* Host Project
+- [ ] Host Project(Optional)
 
 
 
