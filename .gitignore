@@ -254,5 +254,4 @@ pip-selfcheck.json
 # and uncomment the following lines
 # .pnp.*
 
-# End of https://www.toptal.com/developers/gitignore/api/yarn
 # End of https://www.toptal.com/developers/gitignore/api/react,python,virtualenv,django,yarn
