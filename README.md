@@ -1,4 +1,4 @@
-## react_django
+## reactdjango
 > starter code for a react/django project
 
 #### [README](https://github.com/noffle/art-of-readme) Checklist
