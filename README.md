@@ -21,8 +21,14 @@
 - [ ] Initiate Frontend w/ [React](https://reactjs.org/docs/create-a-new-react-app.html)
 
 ### Resources
+
+#### Markdown
 - [How to add badges](https://www.codeblocq.com/2016/04/Add-a-build-passing-badge-to-your-github-repository/)
 - [All about badges](https://medium.com/better-programming/add-badges-to-a-github-repository-716d2988dc6a)
+
+#### Python
 - [How to use venv](https://sourabhbajaj.com/mac-setup/Python/virtualenv.html)
+
+#### Django
 - [Slugify for django](https://docs.djangoproject.com/en/3.1/ref/utils/#module-django.utils.text)
 
