@@ -1,7 +1,7 @@
 ## reactdjango
 > starter code for a react/django project
 
-#### [README](https://github.com/noffle/art-of-readme) Checklist\s\s
+#### [README](https://github.com/noffle/art-of-readme) Checklist
 - [ ] One-liner explaining the purpose of the repo
 - [ ] Necessary background context & links
 - [ ] Potentially infamiliar terms link to informative sources
@@ -15,7 +15,6 @@
 - [ ] Add badges
 
 ### Project Checklist
-* * *
 - [ ] Customize README
 - [ ] Initiate [venv](https://docs.python.org/3/library/venv.html)
 - [ ] Initiate Backend w/ [Django](https://docs.djangoproject.com/en/3.1/intro/tutorial01/)
