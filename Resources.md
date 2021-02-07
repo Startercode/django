@@ -28,7 +28,7 @@ Resources
        - [How to use venv](https://sourabhbajaj.com/mac-setup/Python/virtualenv.html)
 ### Django
   - [Slugify](https://docs.djangoproject.com/en/3.1/ref/utils/#module-django.utils.text)
-  - Database
+  - Databases
 ### Javascript
   - [Resources](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - [ES6](http://es6-features.org/#Constants)
