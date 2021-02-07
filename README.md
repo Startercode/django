@@ -15,7 +15,7 @@
 - [ ] Add badges
 
 ### Project Checklist
-- [ ] Create README
+- [ ] Customize README
 - [ ] Initiate [venv](https://docs.python.org/3/library/venv.html)
 - [ ] Initiate Backend w/ [Django](https://docs.djangoproject.com/en/3.1/intro/tutorial01/)
 - [ ] Initiate Frontend w/ [React](https://reactjs.org/docs/create-a-new-react-app.html)
