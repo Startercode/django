@@ -31,7 +31,7 @@ Project Checklist
 
 Resources
 ---
-#### Github
+> Github
   - Markdown
     - Customize
       - [README Checklist](https://github.com/noffle/art-of-readme)
