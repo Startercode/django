@@ -19,7 +19,7 @@ Project Checklist
   - [ ] Badges
 - [ ] API Documentation
   - [ ] Comment API through
-  - [ ] [Github Pages] https://pages.github.com/
+  - [ ] [Github Pages](https://pages.github.com/)
 - [ ] Backend
   - [ ] Initiate with [pipenv](https://pypi.org/project/pipenv/) or [venv](https://docs.python.org/3/library/venv.html) or [poetry](https://python-poetry.org/)
       - Make sure to use *pip3* instead of pip to install virtual enviroment or any modules
