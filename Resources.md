@@ -1,7 +1,9 @@
 Resources
 ==================
 > Information needed to edit and create files needed for a React/Django project
-### Github
+
+Github
+---
   - Markdown
     - Customize
       - [README Checklist](https://github.com/noffle/art-of-readme)
