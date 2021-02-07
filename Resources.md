@@ -32,8 +32,8 @@ Resources
     - [Slugify](https://docs.djangoproject.com/en/3.1/ref/utils/#module-django.utils.text)
   - Databases
     - SQLite(Default Database)
-      - [Model](https://docs.djangoproject.com/en/3.1/topics/db/models/)
-      - [Migrating](https://docs.djangoproject.com/en/3.1/topics/migrations/)
+      - [Models](https://docs.djangoproject.com/en/3.1/topics/db/models/)
+      - [Migrations](https://docs.djangoproject.com/en/3.1/topics/migrations/)
     - Postgres
     - Mysql
 ### Javascript
