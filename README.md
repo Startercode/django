@@ -25,7 +25,7 @@ Project Checklist
   - Make sure to use *pip3* instead of pip to install virtual enviroment or any modules
 - [ ] Initiate Backend w/ [Django](https://docs.djangoproject.com/en/3.1/intro/tutorial01/)
 - [ ] Initiate Frontend w/ [React](https://reactjs.org/docs/create-a-new-react-app.html)
-- [ ] Host Project(Optional)
+- [ ] Host Project
 
 
 
@@ -41,4 +41,8 @@ Resources
   - [How to use venv](https://sourabhbajaj.com/mac-setup/Python/virtualenv.html)
 - Django
   - [Slugify for django](https://docs.djangoproject.com/en/3.1/ref/utils/#module-django.utils.text)
-
+- Pipenv
+  - Crossplatform lockfile
+    - [Offical docs](https://pipenv.pypa.io/en/latest/advanced/)    
+    - [Stackoverflow question](https://stackoverflow.com/questions/57315096/pipenv-dependencies-of-platform-specific-packages-are-installed-unconditionally)
+    - [Github ticket](https://github.com/pypa/pipenv/issues/1575)
