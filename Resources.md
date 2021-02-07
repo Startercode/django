@@ -31,7 +31,7 @@ Python
      - Initiating
        - [How to use venv](https://sourabhbajaj.com/mac-setup/Python/virtualenv.html)
        
-[Django](https://www.djangoproject.com/start/overview/)
+Django
 ---
   - [Documentation](https://docs.djangoproject.com/en/3.1/)
   - URL's
