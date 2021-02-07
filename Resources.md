@@ -18,8 +18,10 @@ Github
       - [Cheatsheet](https://training.github.com/)
       - [Interactive Map](https://ndpsoftware.com/git-cheatsheet.html#loc=;)
     - [Cloning](https://git-scm.com/docs/git-clone)
-    - [Forking](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) 
-### Python
+    - [Forking](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
+    
+Python
+---
    - Pipenv
      - Crossplatform lockfile
        - [Offical docs](https://pipenv.pypa.io/en/latest/advanced/)    
@@ -28,7 +30,9 @@ Github
    - venv
      - Initiating
        - [How to use venv](https://sourabhbajaj.com/mac-setup/Python/virtualenv.html)
-### [Django](https://www.djangoproject.com/start/overview/)
+       
+[Django](https://www.djangoproject.com/start/overview/)
+---
   - [Documentation](https://docs.djangoproject.com/en/3.1/)
   - URL's
     - [Slugify](https://docs.djangoproject.com/en/3.1/ref/utils/#module-django.utils.text)
@@ -38,10 +42,14 @@ Github
       - [Migrations](https://docs.djangoproject.com/en/3.1/topics/migrations/)
     - Postgres
     - Mysql
-### Javascript
+    
+Javascript
+---
   - [Resources](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - [ES6](http://es6-features.org/#Constants)
-### React
+  
+React
+---
   - Yarn
     - [Version 1](https://classic.yarnpkg.com/en/docs/usage) Classic
     - [Version 2](https://yarnpkg.com/) Berry
