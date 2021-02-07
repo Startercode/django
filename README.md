@@ -38,11 +38,14 @@ Resources
   - [All about badges](https://medium.com/better-programming/add-badges-to-a-github-repository-716d2988dc6a)
   - [Custom badges](https://shields.io/)
 - Python
-  - [How to use venv](https://sourabhbajaj.com/mac-setup/Python/virtualenv.html)
+  - Pipenv
+    - Crossplatform lockfile
+      - [Offical docs](https://pipenv.pypa.io/en/latest/advanced/)    
+      - [Stackoverflow question](https://stackoverflow.com/questions/57315096/pipenv-dependencies-of-platform-specific-packages-are-installed-unconditionally)
+      - [Github ticket](https://github.com/pypa/pipenv/issues/1575)
+  - venv
+    - Basics
+      - [How to use venv](https://sourabhbajaj.com/mac-setup/Python/virtualenv.html)
 - Django
   - [Slugify for django](https://docs.djangoproject.com/en/3.1/ref/utils/#module-django.utils.text)
-- Pipenv
-  - Crossplatform lockfile
-    - [Offical docs](https://pipenv.pypa.io/en/latest/advanced/)    
-    - [Stackoverflow question](https://stackoverflow.com/questions/57315096/pipenv-dependencies-of-platform-specific-packages-are-installed-unconditionally)
-    - [Github ticket](https://github.com/pypa/pipenv/issues/1575)
+
