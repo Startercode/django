@@ -32,7 +32,6 @@ Resources
     - [Migrating](https://docs.djangoproject.com/en/3.1/topics/migrations/)
     - Postgres
     - Mysql
-    - SQLite
 ### Javascript
   - [Resources](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - [ES6](http://es6-features.org/#Constants)
