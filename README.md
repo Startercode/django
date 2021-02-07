@@ -15,5 +15,5 @@
 
 ### Project Checklist
 - [ ] Create README
-- [ ] Initiate Backend w/ [Django]
-- [ ] Initiate Frontend w/ [React]
+- [ ] Initiate Backend w/ [Django](https://www.djangoproject.com/)
+- [ ] Initiate Frontend w/ [React](https://reactjs.org/)
