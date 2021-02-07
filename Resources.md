@@ -17,7 +17,8 @@ Github
       - [Reference](https://git-scm.com/docs)
       - [Cheatsheet](https://training.github.com/)
       - [Interactive Map](https://ndpsoftware.com/git-cheatsheet.html#loc=;)
-    - [Cloning](https://git-scm.com/docs/git-clone)
+      - [Pull specific files](https://stackoverflow.com/questions/28703140/pull-request-ignore-some-file-changes)
+      - [Cloning](https://git-scm.com/docs/git-clone)
     - [Forking](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
     
 Python
@@ -58,7 +59,6 @@ React
         - currently receiving errors when initiating project with yarn v2
         - initiate project with npx create-react-app my-app
         - after project initialized use these [instructions](https://yarnpkg.com/getting-started/migration) to update to v2
- 
   - [Creat-React-App](https://create-react-app.dev/docs/getting-started/)   
   - [Babel](https://babeljs.io/docs/en/)
   - [Webpack](https://webpack.js.org/concepts/)
