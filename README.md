@@ -1,5 +1,5 @@
 ## react_django
-> One-liner
+> starter code for a react/django project
 
 ### [README](https://github.com/noffle/art-of-readme) Checklist
 - [ ] One-liner explaining the purpose of the repo
@@ -17,6 +17,3 @@
 - [ ] Create README
 - [ ] Initiate Backend w/ [Django]
 - [ ] Initiate Frontend w/ [React]
-- [ ]
-- [ ]
-- [ ]
