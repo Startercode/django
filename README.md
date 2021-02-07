@@ -19,7 +19,6 @@
 - [ ] Initiate [venv](https://docs.python.org/3/library/venv.html)
 - [ ] Initiate Backend w/ [Django](https://docs.djangoproject.com/en/3.1/intro/tutorial01/)
 - [ ] Initiate Frontend w/ [React](https://reactjs.org/docs/create-a-new-react-app.html)
-- [ ] Create reminders for daily task
 
 ### Resources
 - [How to add badges](https://www.codeblocq.com/2016/04/Add-a-build-passing-badge-to-your-github-repository/)
