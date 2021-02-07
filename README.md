@@ -31,7 +31,7 @@ Project Checklist
 
 Resources
 ---
-- Github
+Github
   - Markdown
     - Customize
       - [README Checklist](https://github.com/noffle/art-of-readme)
@@ -47,15 +47,19 @@ Resources
       - [Interactive Map](https://ndpsoftware.com/git-cheatsheet.html#loc=;)
     - [Cloning](https://git-scm.com/docs/git-clone)
     - [Forking](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) 
- - Python
-    - Pipenv
-      - Crossplatform lockfile
-        - [Offical docs](https://pipenv.pypa.io/en/latest/advanced/)    
-        - [Stackoverflow question](https://stackoverflow.com/questions/57315096/pipenv-dependencies-of-platform-specific-packages-are-installed-unconditionally)
-        - [Github ticket](https://github.com/pypa/pipenv/issues/1575)
-    - venv
-      - Initiating
-        - [How to use venv](https://sourabhbajaj.com/mac-setup/Python/virtualenv.html)
+- Python
+   - Pipenv
+     - Crossplatform lockfile
+       - [Offical docs](https://pipenv.pypa.io/en/latest/advanced/)    
+       - [Stackoverflow question](https://stackoverflow.com/questions/57315096/pipenv-dependencies-of-platform-specific-packages-are-installed-unconditionally)
+       - [Github ticket](https://github.com/pypa/pipenv/issues/1575)
+   - venv
+     - Initiating
+       - [How to use venv](https://sourabhbajaj.com/mac-setup/Python/virtualenv.html)
 - Django
   - [Slugify](https://docs.djangoproject.com/en/3.1/ref/utils/#module-django.utils.text)
+- Javascript
+- React
+  - Babel
+  - Webpack
 
