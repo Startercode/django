@@ -43,7 +43,7 @@ Resources
       - create-react-app compatibility
         - currently receiving errors when initiating project with yarn
         - initiate project with npx
-        - after folder created use these [instructions](https://yarnpkg.com/getting-started/migration) to update to version 2
+        - after project initialized use these [instructions](https://yarnpkg.com/getting-started/migration) to update to version 2
   - [React.js](https://reactjs.org/)
   - [Creat-React-App](https://create-react-app.dev/docs/getting-started/)   
   - [Babel](https://babeljs.io/docs/en/)
