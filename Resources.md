@@ -23,7 +23,7 @@ Github
 - API Documentation
   - Resources
     - [Document Generator](https://docsify.js.org/#/)
-    - [How to document your api](https://idratherbewriting.com/learnapidoc/)
+    - [Documenting The API](https://idratherbewriting.com/learnapidoc/)
     - [Github Pages](https://docs.github.com/en/github/working-with-github-pages)
     - [Customize Pages](https://jekyllrb.com/)
     
