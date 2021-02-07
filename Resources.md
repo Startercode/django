@@ -27,9 +27,13 @@ Resources
      - Initiating
        - [How to use venv](https://sourabhbajaj.com/mac-setup/Python/virtualenv.html)
 ### [Django](https://www.djangoproject.com/start/overview/)
-  - [Slugify](https://docs.djangoproject.com/en/3.1/ref/utils/#module-django.utils.text)
+  - [Documentation](https://docs.djangoproject.com/en/3.1/)
+  - URL's
+    - [Slugify](https://docs.djangoproject.com/en/3.1/ref/utils/#module-django.utils.text)
   - Databases
-    - [Migrating](https://docs.djangoproject.com/en/3.1/topics/migrations/)
+    - SQLite(Default Database)
+      - [Model](https://docs.djangoproject.com/en/3.1/topics/db/models/)
+      - [Migrating](https://docs.djangoproject.com/en/3.1/topics/migrations/)
     - Postgres
     - Mysql
 ### Javascript
@@ -41,7 +45,7 @@ Resources
     - [Version 2](https://yarnpkg.com/) Berry
       - create-react-app compatibility
         - currently receiving errors when initiating project with yarn
-        - initiate project with npx
+        - initiate project with npx create-react-app my-app
         - after project initialized use these [instructions](https://yarnpkg.com/getting-started/migration) to update to version 2
   - [React.js](https://reactjs.org/)
   - [Creat-React-App](https://create-react-app.dev/docs/getting-started/)   
