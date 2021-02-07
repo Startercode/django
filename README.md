@@ -27,7 +27,8 @@ Project Checklist
 
 
 
-### Resources
+Resources
+---
 - Markdown
   - [README Checklist](https://github.com/noffle/art-of-readme)
   - [Customize README/md](https://sourceforge.net/p/thinwhiteline/wiki/markdown_syntax/)
