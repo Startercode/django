@@ -61,7 +61,7 @@ React
 - Yarn
   - [Version 1](https://classic.yarnpkg.com/en/docs/usage) Classic
   - [Version 2](https://yarnpkg.com/) Berry
-    ***warning*** 
+    **warning** 
     *create-react-app installation issue*
     *use Berry without installation error:*
       1. First initiate project with npx create-react-app my-app
