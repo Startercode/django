@@ -1,5 +1,6 @@
 Project Checklist [Final]
 ---
+> Fully Complete Project 
 - [ ] **README**
   - [ ] Initiate README.md
   - [ ] One-liner explaining the purpose of the repo
