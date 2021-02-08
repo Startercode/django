@@ -65,8 +65,9 @@ React
       > currently receiving errors when initiating project with yarn Classic
       
       
-      > To use Berry instead of classic initiate project with npx create-react-app my-app
-      > after project initialized use these [instructions](https://yarnpkg.com/getting-started/migration) to update to v2
+      > To use Berry instead of Classic
+      > 1. initiate project with npx create-react-app my-app
+      > 2. after project initialized use these [instructions](https://yarnpkg.com/getting-started/migration) to update to v2
       
 - [Creat-React-App](https://create-react-app.dev/docs/getting-started/)   
 - [Babel](https://babeljs.io/docs/en/)
