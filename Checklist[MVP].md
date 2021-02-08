@@ -2,9 +2,6 @@ Project Checklist [MVP]
 ---
 > Minimum Viable Product [Version 0]
 
-#### *Version Objectives*
-
-
 - [ ] **README**
   - [ ] Initiate README.md
   - [ ] One-liner explaining the purpose of the repo
