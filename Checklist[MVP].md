@@ -6,7 +6,6 @@ Project Checklist [MVP]
   - [ ] One-liner explaining the purpose of the repo
   - [ ] Necessary background context & links
   - [ ] Potentially infamiliar terms link to informative sources
-  - [ ] Clear, *runnable* example of usage
   - [ ] Installation instructions
 - [ ] **Backend**
   - [ ] Initiate with [pipenv](https://pypi.org/project/pipenv/) or [venv](https://docs.python.org/3/library/venv.html) or [poetry](https://python-poetry.org/)
