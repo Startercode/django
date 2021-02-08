@@ -22,5 +22,3 @@ Project Checklist [MVP]
     - [ ] Design
     - [ ] Code
     - [ ] Connect to Backend
-- [ ] **Host Project**
-  - [ ] Choose Platform
