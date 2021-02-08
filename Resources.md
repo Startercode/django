@@ -61,11 +61,9 @@ React
 - Yarn
   - [Version 1](https://classic.yarnpkg.com/en/docs/usage) Classic
   - [Version 2](https://yarnpkg.com/) Berry
-    > **create-react-app compatibility**
-    >
-    > Currently receiving errors when initiating project with yarn Classic
-    >  
-    > To use Berry instead of Classic:
+    > **warning: create-react-app compatibility Berry[v2] issue**
+    > 
+    > To use Berry without installation error:
     >   1. First initiate project with npx create-react-app my-app
     >   2. Then after project initialized use these [instructions](https://yarnpkg.com/getting-started/migration) to update to v2
       
