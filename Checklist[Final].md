@@ -33,17 +33,21 @@ Project Checklist [Final]
   - [ ] Initiate Frontend w/ [React](https://reactjs.org/docs/create-a-new-react-app.html)
   - [ ] Homepage/Landingpage
     - [ ] Design
+    - [ ] Code
     - [ ] Connect to Backend
     - [ ] Connect to Other Pages
   - [ ] Navigation
     - [ ] Design
+    - [ ] Code
     - [ ] Connect to Backend
     - [ ] Connect to Other Pages
   - [ ] About
     - [ ] Design
+    - [ ] Code
     - [ ] Connect to Backend
     - [ ] Connect to Other Pages
 - [ ] **Testing**
+  - [ ] Choose Tool(s)
   - [ ] Test Endpoints 
   - [ ] *Additional Step* 
   - [ ] *Additional Step*
