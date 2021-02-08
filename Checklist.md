@@ -1,10 +1,6 @@
-reactdjango
-==================
-> starter code for a react/django project
-
 Project Checklist
 ---
-- [ ] README
+- [ ] **README**
   - [ ] Initiate README.md
   - [ ] One-liner explaining the purpose of the repo
   - [ ] Necessary background context & links
