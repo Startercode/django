@@ -20,16 +20,35 @@ Project Checklist [Final]
   - [ ] *Additional Step*
   - [ ] *Additional Step*
 - [ ] **[Github Pages](https://pages.github.com/)**
+  - [ ] *Additional Step* 
+  - [ ] *Additional Step*
+  - [ ] *Additional Step*
 - [ ] **Backend**
   - [ ] Initiate with [pipenv](https://pypi.org/project/pipenv/) or [venv](https://docs.python.org/3/library/venv.html) or [poetry](https://python-poetry.org/)
       - Make sure to use *pip3* instead of pip to install virtual enviroment or any modules
   - [ ] Initiate Backend w/ [Django](https://docs.djangoproject.com/en/3.1/intro/tutorial01/)
-  - [ ] Utilize SQLite or choose another database
+  - [ ] Choose Database
   - [ ] Migrate Database
 - [ ] **Frontend** 
   - [ ] Initiate Frontend w/ [React](https://reactjs.org/docs/create-a-new-react-app.html)
+  - [ ] Homepage/Landingpage
+    - [ ] Design
+    - [ ] Connect to Backend
+    - [ ] Connect to Other Pages
+  - [ ] Navigation
+    - [ ] Design
+    - [ ] Connect to Backend
+    - [ ] Connect to Other Pages
+  - [ ] About
+    - [ ] Design
+    - [ ] Connect to Backend
+    - [ ] Connect to Other Pages
 - [ ] **Testing**
   - [ ] Test Endpoints 
+  - [ ] *Additional Step* 
+  - [ ] *Additional Step*
+  - [ ] *Additional Step*
+- [ ] **Security**
   - [ ] *Additional Step* 
   - [ ] *Additional Step*
   - [ ] *Additional Step*
