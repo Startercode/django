@@ -1,4 +1,4 @@
-Project Checklist
+Project Checklist [Final]
 ---
 - [ ] **README**
   - [ ] Initiate README.md
