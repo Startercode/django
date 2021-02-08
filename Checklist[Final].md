@@ -56,5 +56,6 @@ Project Checklist [Final]
   - [ ] *Additional Step* 
   - [ ] *Additional Step*
   - [ ] *Additional Step*
-- [ ] **Host Project**
-  - [ ] Choose Platform
+- [ ] **Deployment**
+  - [ ] Edit Docker file
+  - [ ] Choose Hosting Platform
