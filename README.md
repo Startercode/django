@@ -2,11 +2,11 @@ reactdjango
 ==================
 > starter code for a react/django project
 
-Frontend
+Initilize Project
 ---
+##### Frontend
 > Initilizing frontend in React
 
-Django
----
+##### Django
 > Initilizing backend in Django
 
