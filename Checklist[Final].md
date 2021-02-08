@@ -2,7 +2,7 @@ Project Checklist [Final]
 ---
 > Fully Complete Project 
 - [ ] **README**
-  - [ ] Initiate README.md
+  - [ ] Initiate README.md [mvp]
   - [ ] One-liner explaining the purpose of the repo
   - [ ] Necessary background context & links
   - [ ] Potentially infamiliar terms link to informative sources
@@ -15,6 +15,10 @@ Project Checklist [Final]
   - [ ] License
   - [ ] Badges
 - [ ] **API Documentation**
+  - [ ] Choose Tool(s)
+  - [ ] *Additional Step* 
+  - [ ] *Additional Step*
+  - [ ] *Additional Step*
 - [ ] **[Github Pages](https://pages.github.com/)**
 - [ ] **Backend**
   - [ ] Initiate with [pipenv](https://pypi.org/project/pipenv/) or [venv](https://docs.python.org/3/library/venv.html) or [poetry](https://python-poetry.org/)
@@ -25,5 +29,9 @@ Project Checklist [Final]
 - [ ] **Frontend** 
   - [ ] Initiate Frontend w/ [React](https://reactjs.org/docs/create-a-new-react-app.html)
 - [ ] **Testing**
+  - [ ] Test Endpoints 
+  - [ ] *Additional Step* 
+  - [ ] *Additional Step*
+  - [ ] *Additional Step*
 - [ ] **Host Project**
   - [ ] Choose Platform
