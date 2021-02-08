@@ -61,13 +61,11 @@ React
 - Yarn
   - [Version 1](https://classic.yarnpkg.com/en/docs/usage) Classic
   - [Version 2](https://yarnpkg.com/) Berry
-    > ***warning*** 
-    >
-    > *create-react-app installation issue*
-    >
-    > *use Berry without installation error:*
-    >   1. First initiate project with npx create-react-app my-app
-    >   2. Then after project initialized use these [instructions](https://yarnpkg.com/getting-started/migration) to update to v2
+    ***warning*** 
+    *create-react-app installation issue*
+    *use Berry without installation error:*
+      1. First initiate project with npx create-react-app my-app
+      2. Then after project initialized use these [instructions](https://yarnpkg.com/getting-started/migration) to update to v2
       
 - [Creat-React-App](https://create-react-app.dev/docs/getting-started/)   
 - [Babel](https://babeljs.io/docs/en/)
