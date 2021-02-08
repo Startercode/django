@@ -27,7 +27,6 @@ Project Checklist
   - [ ] Migrate Database
 - [ ] Frontend 
   - [ ] Initiate Frontend w/ [React](https://reactjs.org/docs/create-a-new-react-app.html)
-- Testing
-  - [How to document your api](https://idratherbewriting.com/learnapidoc/)
+- [ ] Testing
 - [ ] Host Project
   - [ ] Choose Platform
