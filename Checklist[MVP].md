@@ -10,7 +10,6 @@ Project Checklist [MVP]
   - [ ] Installation instructions
 - [ ] **API Documentation**
   - [ ] Choose Tool(s)
-  - [ ] Test Endpoints 
   - [ ] *Additional Step* 
   - [ ] *Additional Step*
   - [ ] *Additional Step*
@@ -28,5 +27,10 @@ Project Checklist [MVP]
   - [ ] *Additional Step*
   - [ ] *Additional Step*
 - [ ] **Testing**
+  - [ ] Test API Endpoints 
+  - [ ] Test Functions for Django App 1
+  - [ ] Test Functions for Django App 2
+  - [ ] Test Functions for Django App 3
+  - [ ] *Additional Step*
 - [ ] **Host Project**
   - [ ] Choose Platform
