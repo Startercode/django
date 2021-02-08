@@ -36,12 +36,12 @@ Project Checklist [Final]
     - [ ] Code
     - [ ] Connect to Backend
     - [ ] Connect to Other Pages
-  - [ ] Navigation
+  - [ ] Page 2
     - [ ] Design
     - [ ] Code
     - [ ] Connect to Backend
     - [ ] Connect to Other Pages
-  - [ ] About
+  - [ ] Page 3
     - [ ] Design
     - [ ] Code
     - [ ] Connect to Backend
