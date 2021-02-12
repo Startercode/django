@@ -1,4 +1,4 @@
-React/Django Starter Kit
+React | Django Starter Kit
 ========================
 > starter code for a react/django project
 
