@@ -1,6 +1,8 @@
-Project Checklist [Developer]
+Project Checklist [Developer][V1]
 ---
-> Minimum Viable Product [Version 0]
+> Checklist For Producing Code That Follows Developer Standards
+
+> Includes Additonal Features Like: Security
 
 - [ ] **README**
   - [ ] Initiate README.md
