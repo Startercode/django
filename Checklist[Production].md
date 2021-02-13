@@ -2,7 +2,7 @@ Project Checklist [Production][V2]
 ---
 > Complete Project For Use In A Production Enviroment
 
-Includes All Features From: [Basic](https://github.com/jazicorn/starter_reactdjango/blob/main/Checklist%5BBasic%5D%5BV0%5D.md) | [Developer](https://github.com/jazicorn/starter_reactdjango/blob/main/Checklist%5BDeveloper%5D%5BV1%5D.md)
+Includes Features: [Basic](https://github.com/jazicorn/starter_reactdjango/blob/main/Checklist%5BBasic%5D%5BV0%5D.md) | [Developer](https://github.com/jazicorn/starter_reactdjango/blob/main/Checklist%5BDeveloper%5D%5BV1%5D.md)
 
 Additional Features: 
 
