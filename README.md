@@ -7,7 +7,10 @@ I've created extensive documentation of resources I've used and may need for fut
 I've also created a versioning system for improving a project after installation
 
 :bulb: What if you could clone the repository "version" you want, for how far you want to build a project
+
 :bulb: maybe I could create an api that installs the version that you want when building your project?
+
+:bulb: say you choose lvl 3; lvl 3 will install all the packages/apis/frameworks/docs you need for a lvl 3 system. It will also include the mvp through lvl 2 checklist to guide you on building your project.
 
 Installation
 ---
