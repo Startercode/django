@@ -1,4 +1,4 @@
-Project Checklist [MVP]
+Project Checklist [Basic]
 ---
 > Minimum Viable Product [Version 0]
 
