@@ -9,9 +9,11 @@ This file includes list of tools used and steps taken to complete project. Edit 
 
 This file also list the steps already taken towards the project whe using this repository/package. Add additional steps needed to complete and customize the project under additional steps needed. Utilize the format in place for the addition steps or customize step configuration for the projects needs.
 
+Versions under additional features is displays the features that will be upgraded/added gradually during the lifecyle of building the project
+
 Tools
 ---
-> Tools used to create this project.
+> Tools used
 - [React]()
   - describes react
 - [gfsd]()
@@ -39,7 +41,10 @@ Steps Completed
 
 Additional Steps
 ---
-> Additional steps needed to completion
+> Additional steps needed to completion and the versions they will be applied to the project
+
+**Version[1]**
+
 - [ ] **README**
   - [ ] Initiate README.md
   - [ ] One-liner explaining the purpose of the repo
