@@ -27,21 +27,21 @@ Tools
 Versions
 ---
 
-**[1.0.0] Features**
+***(1.0.0)[Features]***
 
-- *Packaged Features*
-- [X] Installed pip packages
-- [X] Praesent eleifend lacus quis massa malesuada iaculis.
-- [X] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
-- [X] Sed sit amet velit non ante placerat commodo sed ut enim.
-- [X] Maecenas laoreet lorem a arcu scelerisque, ut accumsan felis vehicula.
+- [ ] *Packaged Features*
+  - [X] Installed pip packages
+  - [X] Praesent eleifend lacus quis massa malesuada iaculis.
+  - [X] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
+  - [X] Sed sit amet velit non ante placerat commodo sed ut enim.
+  - [X] Maecenas laoreet lorem a arcu scelerisque, ut accumsan felis vehicula.
 
-- ***New Features***
-- [ ] Integer vitae nulla ac lectus dictum vestibulum sed vitae purus.
-- [ ] Praesent eleifend lacus quis massa malesuada iaculis.
-- [ ] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
+- [ ] **New Features**
+  - [ ] Integer vitae nulla ac lectus dictum vestibulum sed vitae purus.
+  - [ ] Praesent eleifend lacus quis massa malesuada iaculis.
+  - [ ] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
 
-**[1.0.0] Checklist**
+***(1.0.0)[Checklist]***
 
 - [ ] **README**
   - [ ] Initiate README.md
@@ -72,21 +72,21 @@ Versions
   
 ---
   
-**[1.0.1] Features**
+***(1.0.1)[Features]***
 
-- *Version[1.0.0] Features*
-- [X] Installed pip packages
-- [X] Praesent eleifend lacus quis massa malesuada iaculis.
-- [X] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
-- [X] Sed sit amet velit non ante placerat commodo sed ut enim.
-- [X] Maecenas laoreet lorem a arcu scelerisque, ut accumsan felis vehicula.
+- [ ] *Packaged Features*
+  - [X] Installed pip packages
+  - [X] Praesent eleifend lacus quis massa malesuada iaculis.
+  - [X] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
+  - [X] Sed sit amet velit non ante placerat commodo sed ut enim.
+  - [X] Maecenas laoreet lorem a arcu scelerisque, ut accumsan felis vehicula.
 
-- ***New Features***
-- [ ] Integer vitae nulla ac lectus dictum vestibulum sed vitae purus.
-- [ ] Praesent eleifend lacus quis massa malesuada iaculis.
-- [ ] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
+- [ ] **New Features**
+  - [ ] Integer vitae nulla ac lectus dictum vestibulum sed vitae purus.
+  - [ ] Praesent eleifend lacus quis massa malesuada iaculis.
+  - [ ] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
 
-**[1.0.1] Checklist**
+***(1.0.1)[Checklist]***
 
 - [ ] **Feature 1**
   - [ ] Integer vitae nulla ac lectus dictum vestibulum sed vitae purus.
