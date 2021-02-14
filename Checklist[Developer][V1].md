@@ -62,6 +62,8 @@ Additional Steps
     - [ ] Design
     - [ ] Code
     - [ ] Connect to Backend
+- [ ] **Test**
+  - [ ] *Additional Step*
 - [ ] **Security**
   - [ ] *Additional Step*
 - [ ] **Deployment**
