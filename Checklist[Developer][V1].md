@@ -2,7 +2,7 @@ Project Checklist [Developer][V1]
 ---
 > Checklist For Producing Code That Follows Developer Standards
 
-Current Version: 1.0.0
+***Current Version: 1.0.0***
 
 **Purpose**
 
