@@ -23,7 +23,6 @@ Tools
 ---
 
 # Versions
-> Features contained in each version
 
 1.0.0
 ---
