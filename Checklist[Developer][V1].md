@@ -10,7 +10,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas non libero nis
 
 Tools
 ---
-> Tools used to create this project. Features not included in basic listed under **New Features**
+> Tools used to create this project. Features not included in basic listed under *New Features*
 - Integer vitae nulla ac lectus dictum vestibulum sed vitae purus.
 - Praesent eleifend lacus quis massa malesuada iaculis.
 - Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
