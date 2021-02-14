@@ -4,6 +4,7 @@ Project Checklist [Basic]
 
 Project Description
 ---
+> Repeat project description of README.md file of project
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas non libero nisi. Quisque ultricies, libero vulputate feugiat mollis, dui nulla venenatis sem, et semper enim leo vitae nulla. In et elementum arcu. Nam accumsan enim at aliquam interdum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi nec varius velit, ut sodales arcu. Suspendisse nec erat mattis elit accumsan gravida. Donec lacinia dignissim dignissim.
 
 Tools
