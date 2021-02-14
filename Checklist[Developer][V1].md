@@ -2,27 +2,42 @@ Project Checklist [Developer][V1]
 ---
 > Checklist For Producing Code That Follows Developer Standards
 
-Project Description
+Purpose
 ---
-> Repeat project description of README.md file of project
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas non libero nisi. Quisque ultricies, libero vulputate feugiat mollis, dui nulla venenatis sem, et semper enim leo vitae nulla. In et elementum arcu. Nam accumsan enim at aliquam interdum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi nec varius velit, ut sodales arcu. Suspendisse nec erat mattis elit accumsan gravida. Donec lacinia dignissim dignissim.
+This file includes list of tools used and steps taken to complete project. Edit tools list to add third party tools and apis used in addition to the ones already listed
+
+This file also list the steps already taken towards the project whe using this repository/package. Add additional steps needed to complete and customize the project under additional steps needed. Utilize the format in place for the addition steps or customize step configuration for the projects needs.
 
 Tools
 ---
-> Tools used to create this project. Features not included in basic listed under *New Features*
-- Integer vitae nulla ac lectus dictum vestibulum sed vitae purus.
-- Praesent eleifend lacus quis massa malesuada iaculis.
-- Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
-- Sed sit amet velit non ante placerat commodo sed ut enim.
-- Maecenas laoreet lorem a arcu scelerisque, ut accumsan felis vehicula.
+> Tools used to create this project.
+- [React]()
+  - describes react
+- [gfsd]()
+  - Praesent eleifend lacus quis massa malesuada iaculis.
+- [fdfd]()
+  - Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
+- [vklv]()
+  - Sed sit amet velit non ante placerat commodo sed ut enim.
+- [vnmn]()
+  - Maecenas laoreet lorem a arcu scelerisque, ut accumsan felis vehicula.
+
+Steps Completed
+---
+> Based files and configuration included in project
+- [X] Installed pip packages
+- [X] Praesent eleifend lacus quis massa malesuada iaculis.
+- [X] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
+- [X] Sed sit amet velit non ante placerat commodo sed ut enim.
+- [X] Maecenas laoreet lorem a arcu scelerisque, ut accumsan felis vehicula.
 
 ***New Features***
-- Integer vitae nulla ac lectus dictum vestibulum sed vitae purus.
-- Praesent eleifend lacus quis massa malesuada iaculis.
-- Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
+- [X] Integer vitae nulla ac lectus dictum vestibulum sed vitae purus.
+- [X] Praesent eleifend lacus quis massa malesuada iaculis.
+- [X] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
 
-Set-Up
+Additional Steps
 ---
 > To-do list for completing a basic react/django project
 - [ ] **README**
