@@ -25,7 +25,7 @@ Tools
 
 Steps Completed
 ---
-> Based files and configuration included in project
+> Files and configuration included in project
 - [X] Installed pip packages
 - [X] Praesent eleifend lacus quis massa malesuada iaculis.
 - [X] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
