@@ -25,7 +25,7 @@ Tools
 
 Steps Completed
 ---
-> Base files and configuration included in project
+> Files and configuration included in project
 - [X] Installed pip packages
 - [X] Praesent eleifend lacus quis massa malesuada iaculis.
 - [X] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
@@ -53,4 +53,8 @@ Additional Steps
   - [ ] Initiate Frontend w/ [React](https://reactjs.org/docs/create-a-new-react-app.html)
   - [ ] Homepage/Landingpage
     - [ ] Wireframe
-    - [ ] Edit
+    - [ ] Edit   
+- [ ] **Security** 
+  - [ ] *Additional Step* 
+- [ ] **Deployment** 
+  - [ ] *Additional Step*
