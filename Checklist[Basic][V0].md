@@ -54,6 +54,8 @@ Additional Steps
   - [ ] Homepage/Landingpage
     - [ ] Wireframe
     - [ ] Edit   
+- [ ] **Test**
+  - [ ] *Additional Step*
 - [ ] **Security** 
   - [ ] *Additional Step* 
 - [ ] **Deployment** 
