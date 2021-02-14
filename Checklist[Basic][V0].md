@@ -25,14 +25,14 @@ Tools
 
 Steps Completed
 ---
-> Based files and configuration included in project
+> Base files and configuration included in project
 - [X] Installed pip packages
 - [X] Praesent eleifend lacus quis massa malesuada iaculis.
 - [X] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
 - [X] Sed sit amet velit non ante placerat commodo sed ut enim.
 - [X] Maecenas laoreet lorem a arcu scelerisque, ut accumsan felis vehicula.
 
-Additional Steps Needed
+Additional Steps
 ---
 > Additional steps needed for completion of project
 - [ ] **README**
