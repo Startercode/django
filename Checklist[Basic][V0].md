@@ -1,27 +1,37 @@
 Project Checklist [Basic]
 ---
-> Minimum Viable Product [Version 0]
+> [Basic] = Minimal Configuration Needed For A Entry Level Django Project
 
-Project Description
+Purpose
 ---
-> Repeat project description of README.md file of project
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas non libero nisi. Quisque ultricies, libero vulputate feugiat mollis, dui nulla venenatis sem, et semper enim leo vitae nulla. In et elementum arcu. Nam accumsan enim at aliquam interdum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi nec varius velit, ut sodales arcu. Suspendisse nec erat mattis elit accumsan gravida. Donec lacinia dignissim dignissim.
+This file includes list of tools used and steps taken to complete project. Edit tools list to add third party tools and apis used in addition to the ones already listed
+
+This file also list the steps already taken towards the project whe using this repository/package. Add additional steps needed to complete and customize the project under additional steps needed. Utilize the format in place for the addition steps or customize step configuration for the projects needs.
 
 Tools
 ---
-> Tools used to create this project. Features not included in basic listed under *New Features*
+> Tools used to create this project.
 - Integer vitae nulla ac lectus dictum vestibulum sed vitae purus.
 - Praesent eleifend lacus quis massa malesuada iaculis.
 - Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
 - Sed sit amet velit non ante placerat commodo sed ut enim.
 - Maecenas laoreet lorem a arcu scelerisque, ut accumsan felis vehicula.
 
-Set-Up
+Steps Completed
 ---
-> To-do list for completing a basic react/django project
+> Based files and configuration included in project
+- [X] Installed pip packages
+- [X] Praesent eleifend lacus quis massa malesuada iaculis.
+- [X] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
+- [X] Sed sit amet velit non ante placerat commodo sed ut enim.
+- [X] Maecenas laoreet lorem a arcu scelerisque, ut accumsan felis vehicula.
+
+Additional Steps Needed
+---
+> Additional steps needed for completion of project
 - [ ] **README**
-  - [ ] Initiate README.md
+  - [ ] Create README.md
   - [ ] One-liner explaining the purpose of the repo
   - [ ] Necessary background context & links
   - [ ] Potentially infamiliar terms link to informative sources
@@ -37,6 +47,5 @@ Set-Up
 - [ ] **Frontend** 
   - [ ] Initiate Frontend w/ [React](https://reactjs.org/docs/create-a-new-react-app.html)
   - [ ] Homepage/Landingpage
-    - [ ] Design
-    - [ ] Code
-    - [ ] Connect to Backend
+    - [ ] Wireframe
+    - [ ] Edit
