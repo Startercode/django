@@ -4,14 +4,20 @@ Project Checklist [Developer][V1]
 
 ***Current Version: 1.0.0***
 
-This File is the main tool used to organize and document your project. It contains information about the files, packages, and libraries that come with the app and how to use them, additional information can be found in the resources.md file. Edit the file and add information throughout the continuation of the project lifecycle.
+This document is the main tool used to organize and document your project. To help you get started with your project it contains information about the files, packages, and libraries that come with the skeleton web app with a Version 1.0.0 checklist, that you can modify for your first deployment. After your pleased with your first deployment. Create versions of your app with additional features to improve the functionality or user experience.
+
+**Tips (add these to readme)**
+
+- Project managment: Use your project management preferences, whether that's a software program, intergrating github projects, a notepad or a piece of paper. I just find that it's easier to brainstorm and walkthrough needs, structure of a project when I'm using software like Clickup.
 
 Tools
 ---
 > Tools used
+- [ClickUp]()
+  - Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
+- [Django]()
+  - Maecenas laoreet lorem a arcu scelerisque, ut accumsan felis vehicula.
 - [React]()
-  - describes react
-- [gfsd]()
   - Praesent eleifend lacus quis massa malesuada iaculis.
 - [fdfd]()
   - Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
@@ -47,6 +53,11 @@ Tools
 
 **[Checklist]**
 
+- [ ] **Project Management**
+  - [ ] Create Project On [ClickUp](https://app.clickup.com/login)
+  - [ ] Integer vitae nulla ac lectus dictum vestibulum sed vitae purus.
+  - [ ] Praesent eleifend lacus quis massa malesuada iaculis.
+  - [ ] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.  
 - [ ] **README**
   - [ ] Initiate README.md
   - [ ] One-liner explaining the purpose of the repo
@@ -74,12 +85,12 @@ Tools
 - [ ] **Deployment**
   - [ ] *Additional Step*
   
-1.0.1
+1.0.1 [Example Additional Version]
 ---
 
 **[Features]**
 
-- [ ] *Packaged Features*
+- [ ] *Includes: 1.0.0 *
   - [X] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
   - [X] Praesent eleifend lacus quis massa malesuada iaculis.
   - [X] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
