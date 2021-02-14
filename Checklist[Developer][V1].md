@@ -20,21 +20,25 @@ Tools
 - [vnmn]()
   - Maecenas laoreet lorem a arcu scelerisque, ut accumsan felis vehicula.
 
-Versions
-===
+### Versions
+---
 
 1.0.0
 ---
 
 **[Features]**
 
-- [ ] *Packaged Features*
-  - [X] Installed pip packages
+- [X] Packaged Features
+  - [X] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
   - [X] Praesent eleifend lacus quis massa malesuada iaculis.
   - [X] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
   - [X] Sed sit amet velit non ante placerat commodo sed ut enim.
   - [X] Maecenas laoreet lorem a arcu scelerisque, ut accumsan felis vehicula.
 
+- [ ] ***Upgraded Features****
+  - [ ] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
+  - [ ] Praesent eleifend lacus quis massa malesuada iaculis.
+  
 - [ ] **New Features**
   - [ ] Integer vitae nulla ac lectus dictum vestibulum sed vitae purus.
   - [ ] Praesent eleifend lacus quis massa malesuada iaculis.
