@@ -34,7 +34,7 @@ Steps Completed
 
 Additional Steps
 ---
-> Additional steps needed for completion of project
+> Additional steps needed to complete the project
 - [ ] **README**
   - [ ] Create README.md
   - [ ] One-liner explaining the purpose of the repo
