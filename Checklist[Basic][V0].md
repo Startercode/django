@@ -22,9 +22,7 @@ Set-Up
 > To-do list for completing a basic react/django project
 - [ ] **README**
   - [ ] Initiate README.md
-    - [X] ./starter_reactdjango/README.md 
   - [ ] One-liner explaining the purpose of the repo
-    - [X] Checklist[Basic][V0] line 3
   - [ ] Necessary background context & links
   - [ ] Potentially infamiliar terms link to informative sources
   - [ ] List tools used in project
