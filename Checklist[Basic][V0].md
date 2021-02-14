@@ -2,19 +2,18 @@ Project Checklist [Basic]
 ---
 > [Basic] = Minimal Configuration Needed For A Entry Level Django Project
 
-Purpose
----
+***Current Version: 0.0.0***
 
-This file includes list of tools used and steps taken to complete project. Edit tools list to add third party tools and apis used in addition to the ones already listed
-
-This file also list the steps already taken towards the project whe using this repository/package. Add additional steps needed to complete and customize the project under additional steps needed. Utilize the format in place for the addition steps or customize step configuration for the projects needs.
+This document is the main tool used to organize and document your project. To help you get started with your project it contains information about the files, packages, and libraries that come with the skeleton web app with a Version 0.0.0 checklist, that you can modify for your first deployment. After your pleased with your first deployment. Create versions of your app with additional features to improve the functionality or user experience.
 
 Tools
 ---
-> Tools used to create this project.
+> Tools used
+- [ClickUp]()
+  - Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
+- [Django]()
+  - Maecenas laoreet lorem a arcu scelerisque, ut accumsan felis vehicula.
 - [React]()
-  - describes react
-- [gfsd]()
   - Praesent eleifend lacus quis massa malesuada iaculis.
 - [fdfd]()
   - Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
@@ -23,28 +22,48 @@ Tools
 - [vnmn]()
   - Maecenas laoreet lorem a arcu scelerisque, ut accumsan felis vehicula.
 
-Steps Completed
 ---
-> Files and configuration included in project
-- [X] Installed pip packages
-- [X] Praesent eleifend lacus quis massa malesuada iaculis.
-- [X] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
-- [X] Sed sit amet velit non ante placerat commodo sed ut enim.
-- [X] Maecenas laoreet lorem a arcu scelerisque, ut accumsan felis vehicula.
 
-Additional Steps
+# Versions
+
+0.0.0
 ---
-> Additional steps needed to complete the project
+
+**[Features]**
+
+- [X] **Packaged Features**
+  - [X] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
+  - [X] Praesent eleifend lacus quis massa malesuada iaculis.
+  - [X] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
+  - [X] Sed sit amet velit non ante placerat commodo sed ut enim.
+  - [X] Maecenas laoreet lorem a arcu scelerisque, ut accumsan felis vehicula.
+
+- [ ] ***Upgraded***
+  - [ ] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
+  - [ ] Praesent eleifend lacus quis massa malesuada iaculis.
+  
+- [ ] ***New***
+  - [ ] Integer vitae nulla ac lectus dictum vestibulum sed vitae purus.
+  - [ ] Praesent eleifend lacus quis massa malesuada iaculis.
+  - [ ] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
+
+**[Checklist]**
+
+- [ ] **Project Management**
+  - [ ] Create Project On [ClickUp](https://app.clickup.com/login)
+  - [ ] Integer vitae nulla ac lectus dictum vestibulum sed vitae purus.
+  - [ ] Praesent eleifend lacus quis massa malesuada iaculis.
+  - [ ] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.  
 - [ ] **README**
-  - [ ] Create README.md
+  - [ ] Initiate README.md
   - [ ] One-liner explaining the purpose of the repo
   - [ ] Necessary background context & links
   - [ ] Potentially infamiliar terms link to informative sources
   - [ ] List tools used 
-  - [ ] List prerequisite configuration needed 
+  - [ ] List prerequisite configuration needed   
   - [ ] Installation instructions
 - [ ] **Backend**
-  - [ ] Initiate with [pipenv](https://pypi.org/project/pipenv/) or [venv](https://docs.python.org/3/library/venv.html) or [poetry](https://python-poetry.org/)
+  - [ ] Initiate virtual enviroment with [pipenv](https://pypi.org/project/pipenv/) 
       - Make sure to use *pip3* instead of pip to install virtual enviroment or any modules
   - [ ] Initiate Backend w/ [Django](https://docs.djangoproject.com/en/3.1/intro/tutorial01/)
   - [ ] Choose Database
@@ -52,11 +71,42 @@ Additional Steps
 - [ ] **Frontend** 
   - [ ] Initiate Frontend w/ [React](https://reactjs.org/docs/create-a-new-react-app.html)
   - [ ] Homepage/Landingpage
-    - [ ] Wireframe
-    - [ ] Edit   
+    - [ ] Design
+    - [ ] Code
+    - [ ] Connect to Backend
 - [ ] **Test**
   - [ ] *Additional Step*
-- [ ] **Security** 
-  - [ ] *Additional Step* 
-- [ ] **Deployment** 
+- [ ] **Security**
   - [ ] *Additional Step*
+- [ ] **Deployment**
+  - [ ] *Additional Step*
+  
+0.0.1 
+---
+> [Example Additional Version]
+**[Features]**
+
+- [ ] **Includes: 0.0.0**
+  - [X] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
+  - [X] Praesent eleifend lacus quis massa malesuada iaculis.
+  - [X] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
+  - [X] Sed sit amet velit non ante placerat commodo sed ut enim.
+  - [X] Maecenas laoreet lorem a arcu scelerisque, ut accumsan felis vehicula.
+
+- [ ] ***Upgraded***
+  - [ ] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
+  - [ ] Praesent eleifend lacus quis massa malesuada iaculis.
+  
+- [ ] ***New***
+  - [ ] Integer vitae nulla ac lectus dictum vestibulum sed vitae purus.
+  - [ ] Praesent eleifend lacus quis massa malesuada iaculis.
+  - [ ] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
+
+**[Checklist]**
+
+- [ ] **Feature 1**
+  - [ ] Integer vitae nulla ac lectus dictum vestibulum sed vitae purus.
+- [ ] **Feature 2**
+  - [ ] Praesent eleifend lacus quis massa malesuada iaculis.
+- [ ] **Feature 3**
+  - [ ] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
