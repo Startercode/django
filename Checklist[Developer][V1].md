@@ -20,11 +20,12 @@ Tools
 - [vnmn]()
   - Maecenas laoreet lorem a arcu scelerisque, ut accumsan felis vehicula.
 
+===
+
 ## Versions
----
 
 1.0.0
-===
+---
 
 **[Features]**
 
@@ -73,10 +74,8 @@ Tools
 - [ ] **Deployment**
   - [ ] *Additional Step*
   
----
-  
 1.0.1
-===
+---
 
 **[Features]**
 
