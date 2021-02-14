@@ -25,7 +25,7 @@ Tools
 
 Steps Completed
 ---
-> Files and configuration included in project
+> Files and configuration included
 - [X] Installed pip packages
 - [X] Praesent eleifend lacus quis massa malesuada iaculis.
 - [X] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
@@ -39,7 +39,7 @@ Steps Completed
 
 Additional Steps
 ---
-> Additional steps needed to complete the project
+> Additional steps needed to completion
 - [ ] **README**
   - [ ] Initiate README.md
   - [ ] One-liner explaining the purpose of the repo
