@@ -39,7 +39,7 @@ Steps Completed
 
 Additional Steps
 ---
-> To-do list for completing a basic react/django project
+> Additional steps needed to complete the project
 - [ ] **README**
   - [ ] Initiate README.md
   - [ ] One-liner explaining the purpose of the repo
