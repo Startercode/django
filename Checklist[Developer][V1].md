@@ -85,12 +85,12 @@ Tools
 - [ ] **Deployment**
   - [ ] *Additional Step*
   
-1.0.1 [Example Additional Version]
+1.0.1 
 ---
-
+> [Example Additional Version]
 **[Features]**
 
-- [ ] *Includes: 1.0.0 *
+- [ ] *Includes: 1.0.0*
   - [X] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
   - [X] Praesent eleifend lacus quis massa malesuada iaculis.
   - [X] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
