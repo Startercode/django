@@ -2,14 +2,13 @@ Project Checklist [Developer][V1]
 ---
 > Checklist For Producing Code That Follows Developer Standards
 
-Purpose
----
+Current Version: 1.0.0
+
+**Purpose**
 
 This file includes list of tools used and steps taken to complete project. Edit tools list to add third party tools and apis used in addition to the ones already listed
 
 This file also list the steps already taken towards the project whe using this repository/package. Add additional steps needed to complete and customize the project under additional steps needed. Utilize the format in place for the addition steps or customize step configuration for the projects needs.
-
-Versions under additional features is displays the features that will be upgraded/added gradually during the lifecyle of building the project
 
 Tools
 ---
@@ -25,25 +24,24 @@ Tools
 - [vnmn]()
   - Maecenas laoreet lorem a arcu scelerisque, ut accumsan felis vehicula.
 
-Steps Completed
+Versions
 ---
-> Files and configuration included
+
+**[1.0.0] Features**
+
+- *Packaged Features*
 - [X] Installed pip packages
 - [X] Praesent eleifend lacus quis massa malesuada iaculis.
 - [X] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
 - [X] Sed sit amet velit non ante placerat commodo sed ut enim.
 - [X] Maecenas laoreet lorem a arcu scelerisque, ut accumsan felis vehicula.
 
-***New Features***
-- [X] Integer vitae nulla ac lectus dictum vestibulum sed vitae purus.
-- [X] Praesent eleifend lacus quis massa malesuada iaculis.
-- [X] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
+- ***New Features***
+- [ ] Integer vitae nulla ac lectus dictum vestibulum sed vitae purus.
+- [ ] Praesent eleifend lacus quis massa malesuada iaculis.
+- [ ] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
 
-Additional Steps
----
-> Additional steps needed to completion and the versions they will be applied to the project
-
-**Version[1]**
+**[1.0.0] Checklist**
 
 - [ ] **README**
   - [ ] Initiate README.md
@@ -57,10 +55,8 @@ Additional Steps
   - [ ] Initiate with [pipenv](https://pypi.org/project/pipenv/) or [venv](https://docs.python.org/3/library/venv.html) or [poetry](https://python-poetry.org/)
       - Make sure to use *pip3* instead of pip to install virtual enviroment or any modules
   - [ ] Initiate Backend w/ [Django](https://docs.djangoproject.com/en/3.1/intro/tutorial01/)
-  - [ ] Utilize SQLite or choose another database
+  - [ ] Choose Database
   - [ ] Migrate Database
-  - [ ] *Additional Step*
-  - [ ] *Additional Step*
 - [ ] **Frontend** 
   - [ ] Initiate Frontend w/ [React](https://reactjs.org/docs/create-a-new-react-app.html)
   - [ ] Homepage/Landingpage
@@ -74,3 +70,27 @@ Additional Steps
 - [ ] **Deployment**
   - [ ] *Additional Step*
   
+---
+  
+**[1.0.1] Features**
+
+- *Version[1.0.0] Features*
+- [X] Installed pip packages
+- [X] Praesent eleifend lacus quis massa malesuada iaculis.
+- [X] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
+- [X] Sed sit amet velit non ante placerat commodo sed ut enim.
+- [X] Maecenas laoreet lorem a arcu scelerisque, ut accumsan felis vehicula.
+
+- ***New Features***
+- [ ] Integer vitae nulla ac lectus dictum vestibulum sed vitae purus.
+- [ ] Praesent eleifend lacus quis massa malesuada iaculis.
+- [ ] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
+
+**[1.0.1] Checklist**
+
+- [ ] **Feature 1**
+  - [ ] Integer vitae nulla ac lectus dictum vestibulum sed vitae purus.
+- [ ] **Feature 2**
+  - [ ] Praesent eleifend lacus quis massa malesuada iaculis.
+- [ ] **Feature 3**
+  - [ ] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
