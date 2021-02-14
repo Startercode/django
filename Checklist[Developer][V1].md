@@ -2,8 +2,28 @@ Project Checklist [Developer][V1]
 ---
 > Checklist For Producing Code That Follows Developer Standards
 
-> Includes Additonal Features Like: Security
+Project Description
+---
+> Repeat project description of README.md file of project
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas non libero nisi. Quisque ultricies, libero vulputate feugiat mollis, dui nulla venenatis sem, et semper enim leo vitae nulla. In et elementum arcu. Nam accumsan enim at aliquam interdum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi nec varius velit, ut sodales arcu. Suspendisse nec erat mattis elit accumsan gravida. Donec lacinia dignissim dignissim.
 
+Tools
+---
+> Tools used to create this project. Features not included in basic listed under **New Features**
+- Integer vitae nulla ac lectus dictum vestibulum sed vitae purus.
+- Praesent eleifend lacus quis massa malesuada iaculis.
+- Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
+- Sed sit amet velit non ante placerat commodo sed ut enim.
+- Maecenas laoreet lorem a arcu scelerisque, ut accumsan felis vehicula.
+
+***New Features***
+- Integer vitae nulla ac lectus dictum vestibulum sed vitae purus.
+- Praesent eleifend lacus quis massa malesuada iaculis.
+- Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
+
+Set-Up
+---
+> To-do list for completing a basic react/django project
 - [ ] **README**
   - [ ] Initiate README.md
   - [ ] One-liner explaining the purpose of the repo
