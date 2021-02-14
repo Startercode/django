@@ -4,11 +4,7 @@ Project Checklist [Developer][V1]
 
 ***Current Version: 1.0.0***
 
-**Purpose**
-
-This file includes list of tools used and steps taken to complete project. Edit tools list to add third party tools and apis used in addition to the ones already listed
-
-This file also list the steps already taken towards the project whe using this repository/package. Add additional steps needed to complete and customize the project under additional steps needed. Utilize the format in place for the addition steps or customize step configuration for the projects needs.
+This File is the main tool used to organize and document your project. It contains information about the files, packages, and libraries that come with the app and how to use them, additional information can be found in the resources.md file. Edit the file and add information throughout the continuation of the project lifecycle.
 
 Tools
 ---
@@ -75,7 +71,7 @@ Versions
 ***(1.0.1)[Features]***
 
 - [ ] *Packaged Features*
-  - [X] Installed pip packages
+  - [X] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
   - [X] Praesent eleifend lacus quis massa malesuada iaculis.
   - [X] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
   - [X] Sed sit amet velit non ante placerat commodo sed ut enim.
