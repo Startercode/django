@@ -23,6 +23,7 @@ Tools
 ---
 
 # Versions
+> Features contained in each version
 
 1.0.0
 ---
@@ -36,7 +37,7 @@ Tools
   - [X] Sed sit amet velit non ante placerat commodo sed ut enim.
   - [X] Maecenas laoreet lorem a arcu scelerisque, ut accumsan felis vehicula.
 
-- [ ] ***Upgraded Features****
+- [ ] ***Upgraded Features***
   - [ ] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
   - [ ] Praesent eleifend lacus quis massa malesuada iaculis.
   
