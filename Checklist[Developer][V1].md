@@ -60,3 +60,8 @@ Additional Steps
     - [ ] Design
     - [ ] Code
     - [ ] Connect to Backend
+- [ ] **Security**
+  - [ ] *Additional Step*
+- [ ] **Deployment**
+  - [ ] *Additional Step*
+  
