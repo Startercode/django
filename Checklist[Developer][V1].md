@@ -86,6 +86,10 @@ Tools
   - [X] Sed sit amet velit non ante placerat commodo sed ut enim.
   - [X] Maecenas laoreet lorem a arcu scelerisque, ut accumsan felis vehicula.
 
+- [ ] ***Upgraded Features***
+  - [ ] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
+  - [ ] Praesent eleifend lacus quis massa malesuada iaculis.
+  
 - [ ] **New Features**
   - [ ] Integer vitae nulla ac lectus dictum vestibulum sed vitae purus.
   - [ ] Praesent eleifend lacus quis massa malesuada iaculis.
