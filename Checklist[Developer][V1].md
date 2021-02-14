@@ -1,6 +1,6 @@
 Project Checklist [Developer][V1]
 ---
-> Checklist For Producing Code That Follows Developer Standards
+> [Developer] = Configuration Needed For A Developer Level Project
 
 ***Current Version: 1.0.0***
 
