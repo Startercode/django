@@ -8,7 +8,7 @@ This document is the main tool used to organize and document your project. To he
 
 **Tips (add these to readme)**
 
-- Project managment: Use your project management preferences, whether that's a software program, intergrating github projects, a notepad or a piece of paper. I just find that it's easier to brainstorm and walkthrough needs, structure of a project when I'm using software like Clickup.
+*Project managment:* Use your project management preferences, whether that's a software program, intergrating github projects, a notepad or a piece of paper. I just find that it's easier to brainstorm and walkthrough needs, structure of a project when I'm using software like Clickup.
 
 Tools
 ---
