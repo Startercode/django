@@ -21,9 +21,12 @@ Tools
   - Maecenas laoreet lorem a arcu scelerisque, ut accumsan felis vehicula.
 
 Versions
+===
+
+1.0.0
 ---
 
-***(1.0.0)[Features]***
+**[Features]**
 
 - [ ] *Packaged Features*
   - [X] Installed pip packages
@@ -37,7 +40,7 @@ Versions
   - [ ] Praesent eleifend lacus quis massa malesuada iaculis.
   - [ ] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
 
-***(1.0.0)[Checklist]***
+**[Checklist]**
 
 - [ ] **README**
   - [ ] Initiate README.md
@@ -68,7 +71,10 @@ Versions
   
 ---
   
-***(1.0.1)[Features]***
+1.0.1
+---
+
+**[Features]**
 
 - [ ] *Packaged Features*
   - [X] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
@@ -82,7 +88,7 @@ Versions
   - [ ] Praesent eleifend lacus quis massa malesuada iaculis.
   - [ ] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
 
-***(1.0.1)[Checklist]***
+**[Checklist]**
 
 - [ ] **Feature 1**
   - [ ] Integer vitae nulla ac lectus dictum vestibulum sed vitae purus.
