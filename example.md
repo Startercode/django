@@ -1,6 +1,6 @@
 Title
 ---
-> One Liner
+> Template for customizing your README.md
 
 Project Description
 ---
