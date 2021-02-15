@@ -22,33 +22,43 @@ To-Do
 Requirements
 ---
 
-Installation
+Installation [Tools]
 ---
 
 **python**
-[website]()
+[website](https://www.python.org/downloads/)
 
-First check to see if you already have python installed on your system
+Verify if python3 is installed on system
+    python --version
 
 **pipenv**
-[website]()
+[website](https://pip.pypa.io/en/stable/user_guide/#user-installs) | [What is pipenv?](https://docs.python-guide.org/dev/virtualenvs/) | [--user?](https://pip.pypa.io/en/stable/user_guide/#user-installs)
 
-First check to see if you have pipenv already installed on your system
+Verify if pip is installed on system
 
-The following are the instructions for installing the virtual wrapper to create and modify your project
+    pip --version
 
-First install pip depencies packaged with the startercode project
+First install the pipenv package
 
-    pipenv shell
-
+    pip install --user pipenv
+    
 When installing this package you want to install as a dev dependency. It's meant to be a tool for development purposes only
 
     pipenv install --dev <package>
     
-**Django**
-[website]()
+To activate virtual enviroment
 
-First check to see if you have Django installed on your system
+    pipenv shell    
 
-Versions
+To deactivate
+
+    exit
+
+Installation [Versions]
 ---
+
+**[Basic]**
+
+**[Developer]**
+
+**[Production]**
