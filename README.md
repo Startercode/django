@@ -53,6 +53,7 @@ Verify if pip is installed on system
     pipenv install --dev <package>
 
 #### **django** 
+##### Info: [website](https://docs.djangoproject.com/en/3.1/topics/install/)
 
 Verification
 
@@ -63,7 +64,6 @@ Installation
     python -m pip install Django
 
     exit
-##### Info: [website](https://docs.djangoproject.com/en/3.1/topics/install/)
 
 Installation
 ---
@@ -76,8 +76,6 @@ Clone Repository | Pip Installation
 3 . Step | 3 . Step
 
 **[Basic]**
-
-
 
 **[Developer]**
 
