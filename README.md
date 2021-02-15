@@ -62,8 +62,7 @@ Verification
 Installation
   
     python -m pip install Django
-
-    exit
+    
 
 Installation
 ---
