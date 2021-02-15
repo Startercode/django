@@ -26,12 +26,15 @@ Installation [Tools]
 ---
 
 **python**
+
 [website](https://www.python.org/downloads/)
 
 Verify if python3 is installed on system
+
     python --version
 
 **pipenv**
+
 [website](https://pip.pypa.io/en/stable/user_guide/#user-installs) | [What is pipenv?](https://docs.python-guide.org/dev/virtualenvs/) | [--user?](https://pip.pypa.io/en/stable/user_guide/#user-installs)
 
 Verify if pip is installed on system
