@@ -10,11 +10,11 @@ This repo contains all the starter code for my Django projects. Lorem ipsum dolo
 To-Do
 ---
 
-- [ ] Finish Basic guide
+- [ ] Finish[Basic] guide
   - [ ] Outline resources needed
-- [ ] Finish Developer guide
+- [ ] Finish[Developer] guide
   - [ ] Outline resources needed
-- [ ] Finish Production guide
+- [ ] Finish[Production] guide
   - [ ] Outline resources needed
 - [ ] Package Repository
 
