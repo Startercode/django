@@ -28,7 +28,7 @@ Tools
 > All versions include features from previous versions
 
 [Build][0.0.0] Versions
-===
+---
 > Versions for gradually completing project until release of MVP[Most Viable Product] of project. The MVP represents the base requirements needed(or fulfilled) for the project to be used in production(public use/consumption).
 
 0.0.0
@@ -104,7 +104,7 @@ Tools
 - [ ] **Feature 3**
   - [ ] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
 
-===
+---
 
 1.0.0
 ---
