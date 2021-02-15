@@ -37,31 +37,54 @@ Verify if python3 is installed on system
 
 [website](https://pip.pypa.io/en/stable/user_guide/#user-installs) | [What is pipenv?](https://docs.python-guide.org/dev/virtualenvs/) | [--user?](https://pip.pypa.io/en/stable/user_guide/#user-installs)
 
-Verify if pip is installed on system
+1 . Verify if pip is installed on system
 
     pip --version
 
-First install the pipenv package
+2 . First install the pipenv package
 
     pip install --user pipenv
     
-When installing this package you want to install as a dev dependency. It's meant to be a tool for development purposes only
-
-    pipenv install --dev <package>
-    
-To activate virtual enviroment
+3. To activate virtual enviroment
 
     pipenv shell    
 
-To deactivate
+4 . To deactivate
 
     exit
+    
+*Tip:* Include the --dev flag for developer only packages
 
+    pipenv install --dev <package>
+    
 Installation [Versions]
 ---
 
 **[Basic]**
 
+Make sure to add helper markdown files (all .md files beside user created README.md) to .gitignore and/or .env files to prevent uploading to server and/or github.
+
+*Option 1* 
+
+1. Clone https://github.com/Startercode/django.git <yourprojectname>
+  
+2. Step
+
+3. Step
+
+4. Step
+
+*Option 2*
+
+1. Create project folder
+
+2. Step
+
+3. Step
+
+4. Step
+
+    
 **[Developer]**
 
 **[Production]**
