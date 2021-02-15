@@ -60,7 +60,7 @@ Installation [Versions]
 
 *Option 1* | *Option 2*
 ---------- | ----------
-1 . Clone https://github.com/Startercode/django.git <yourprojectname> | 1 . Create project folder  
+1 . Clone Repository | 1 . Pip Installation  
 2 . Step | 2 . Step 
 3 . Step | 3 . Step
 4 . Step | 4 . Step
