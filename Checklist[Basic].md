@@ -47,9 +47,9 @@ Tools
 
 **[Features]**
 
-- ***Upgraded***
-  - Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
-  - Praesent eleifend lacus quis massa malesuada iaculis.
+- [ ] ***Upgraded***
+  - [ ] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
+  - [ ] Praesent eleifend lacus quis massa malesuada iaculis.
   
 - [ ] ***New***
   - [ ] Integer vitae nulla ac lectus dictum vestibulum sed vitae purus.
