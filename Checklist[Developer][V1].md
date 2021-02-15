@@ -35,18 +35,18 @@ Tools
 
 **[Features]**
 
-- [X] Packaged Features
+- [X] **Packaged Features**
   - [X] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
   - [X] Praesent eleifend lacus quis massa malesuada iaculis.
   - [X] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
   - [X] Sed sit amet velit non ante placerat commodo sed ut enim.
   - [X] Maecenas laoreet lorem a arcu scelerisque, ut accumsan felis vehicula.
 
-- [ ] ***Upgraded Features***
+- [ ] ***Upgraded***
   - [ ] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
   - [ ] Praesent eleifend lacus quis massa malesuada iaculis.
   
-- [ ] **New Features**
+- [ ] ***New***
   - [ ] Integer vitae nulla ac lectus dictum vestibulum sed vitae purus.
   - [ ] Praesent eleifend lacus quis massa malesuada iaculis.
   - [ ] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
@@ -90,18 +90,18 @@ Tools
 > [Example Additional Version]
 **[Features]**
 
-- [ ] *Includes: 1.0.0*
+- [ ] **Includes: 1.0.0**
   - [X] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
   - [X] Praesent eleifend lacus quis massa malesuada iaculis.
   - [X] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
   - [X] Sed sit amet velit non ante placerat commodo sed ut enim.
   - [X] Maecenas laoreet lorem a arcu scelerisque, ut accumsan felis vehicula.
 
-- [ ] ***Upgraded Features***
+- [ ] ***Upgraded***
   - [ ] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
   - [ ] Praesent eleifend lacus quis massa malesuada iaculis.
   
-- [ ] **New Features**
+- [ ] ***New***
   - [ ] Integer vitae nulla ac lectus dictum vestibulum sed vitae purus.
   - [ ] Praesent eleifend lacus quis massa malesuada iaculis.
   - [ ] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
