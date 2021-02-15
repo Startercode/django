@@ -23,30 +23,28 @@ Requirements
 ---
 
 #### **python** 
-
 ##### Info: [website](https://www.python.org/downloads/)
 
-Verify if python3 is installed on system
+Verfication
 
     python --version
 
 #### **pipenv** 
-
 ##### Info: [website](https://pip.pypa.io/en/stable/user_guide/#user-installs) | [What is pipenv?](https://docs.python-guide.org/dev/virtualenvs/) | [--user?](https://pip.pypa.io/en/stable/user_guide/#user-installs)
 
-1 . Verify if pip is installed on system
+Verify if pip is installed on system
 
     pip --version
 
-2 . First install the pipenv package
+1 . First install the pipenv package
 
     pip install --user pipenv
     
-3 . To activate virtual enviroment
+2 . To activate virtual enviroment
     
     pipenv shell    
     
-4 . To deactivate
+3 . To deactivate
 
     exit
     
@@ -56,6 +54,15 @@ Verify if python3 is installed on system
 
 #### **django** 
 
+Verification
+
+    python -m django --version
+
+Installation
+  
+    python -m pip install Django
+
+    exit
 ##### Info: [website](https://docs.djangoproject.com/en/3.1/topics/install/)
 
 Installation
