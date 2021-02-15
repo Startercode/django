@@ -45,11 +45,11 @@ Verify if python3 is installed on system
 
     pip install --user pipenv
     
-3. To activate virtual enviroment
-
+3 . To activate virtual enviroment
+    
     pipenv shell    
-
-4. To deactivate
+    
+4 . To deactivate
 
     exit
     
@@ -66,10 +66,10 @@ Make sure to add helper markdown files (all .md files beside user created README
 
 *Option 1* | *Option 2*
 ---------- | ----------
-1. Clone https://github.com/Startercode/django.git <yourprojectname> | 1. Create project folder  
-2. Step | Step 
-3. Step | Step
-4. Step | Step
+1 . Clone https://github.com/Startercode/django.git <yourprojectname> | 1 . Create project folder  
+2 . Step | 2 . Step 
+3 . Step | 3 . Step
+4 . Step | 4 . Step
     
 **[Developer]**
 
