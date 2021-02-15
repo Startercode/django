@@ -29,7 +29,7 @@ Tools
 
 0.0.0
 ---
-> Features Implemented In Package Installation
+> Begining of [Build][0.0.0] Series. Describes features implemented in base package.
 
 - [X] **Packaged Features**
   - [X] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
@@ -102,7 +102,7 @@ Tools
   
 1.0.0
 ---
-> MVP Version. Includes all features from the final version of the 0.0.0 series.
+> MVP Version.Beginning of [Upgrade][1.0.0] Series. Includes all features from the final version of the [Build][0.0.0] series.
 
 **[Features]**
 
@@ -112,11 +112,8 @@ Tools
   
 - [ ] ***New***
   - [ ] **Test**
-    - [ ] Integer vitae nulla ac lectus dictum vestibulum sed vitae purus.
   - [ ] **Security**
-    - [ ] Praesent eleifend lacus quis massa malesuada iaculis.
   - [ ] **Deployment**
-    - [ ] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
 
 **[Checklist]**
 
@@ -126,3 +123,23 @@ Tools
   - [ ] Praesent eleifend lacus quis massa malesuada iaculis.
 - [ ] **Deployment**
   - [ ] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
+  
+1.0.1
+---
+
+**[Features]**
+
+- [ ] ***Upgraded***
+  - [ ] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
+  - [ ] Praesent eleifend lacus quis massa malesuada iaculis.
+  
+- [ ] ***New***
+  - [ ] **API Documentation**
+  - [ ] **Github Pages**
+
+**[Checklist]**
+
+- [ ] **API Documentation**
+  - [ ] Integer vitae nulla ac lectus dictum vestibulum sed vitae purus.
+- [ ] **Github Pages**
+  - [ ] Praesent eleifend lacus quis massa malesuada iaculis.
