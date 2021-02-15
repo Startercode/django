@@ -22,10 +22,10 @@ Tools
 
 ---
 
-# Versions
-> All versions include features from previous versions
+# Branches
+> Branches created
 
-[Basic][0] Versions
+[Basic] Branch
 ---
 > Building repository [Basic]
 
@@ -85,7 +85,7 @@ Tools
 - [ ] **Feature 3**
   - [ ] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
 
-[Developer][1] Versions
+[Developer] Branch
 ---
 > Create branch [developer] for project that includes basic and developer-only dependecies
 
@@ -133,7 +133,7 @@ Tools
   - [ ] Praesent eleifend lacus quis massa malesuada iaculis.
 
 
-[Production][2] Versions
+[Production] Branch
 ---
 > Create branch [production] for project that includes basic and developer-only dependecies. It also include additional files and apis for a production quality product, replacing and/or adding to packages used in the developer version
 
