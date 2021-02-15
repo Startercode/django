@@ -22,10 +22,7 @@ To-Do
 Requirements
 ---
 
-Installation [Tools]
----
-
-### **python** 
+#### **python** 
 
 ##### Info: [website](https://www.python.org/downloads/)
 
@@ -33,7 +30,7 @@ Verify if python3 is installed on system
 
     python --version
 
-### **pipenv** 
+#### **pipenv** 
 
 ##### Info: [website](https://pip.pypa.io/en/stable/user_guide/#user-installs) | [What is pipenv?](https://docs.python-guide.org/dev/virtualenvs/) | [--user?](https://pip.pypa.io/en/stable/user_guide/#user-installs)
 
@@ -56,7 +53,11 @@ Verify if python3 is installed on system
 *Tip:* Include the --dev flag for developer only packages
 
     pipenv install --dev <package>
-    
+
+#### **django** 
+
+##### Info: [website](https://docs.djangoproject.com/en/3.1/topics/install/)
+
 Installation
 ---
 
