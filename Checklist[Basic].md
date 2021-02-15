@@ -1,6 +1,6 @@
 Project Checklist [Basic]
 ---
-> [Basic] Minimal Configuration Needed For A Entry Level Django Project
+> [Basic] Minimal Configuration Needed For A Django Project
 
 ***Current Version: 0.0.0***
 
@@ -64,27 +64,16 @@ Tools
   - [ ] One-liner explaining the purpose of the repo
   - [ ] Necessary background context & links
   - [ ] Potentially infamiliar terms link to informative sources
-  - [ ] List tools used 
-  - [ ] List prerequisite configuration needed   
-  - [ ] Installation instructions
 - [ ] **Backend**
   - [ ] Initiate virtual enviroment with [pipenv](https://pypi.org/project/pipenv/) 
       - Make sure to use *pip3* instead of pip to install virtual enviroment or any modules
   - [ ] Initiate Backend w/ [Django](https://docs.djangoproject.com/en/3.1/intro/tutorial01/)
-  - [ ] Choose Database
   - [ ] Migrate Database
 - [ ] **Frontend** 
   - [ ] Initiate Frontend w/ [React](https://reactjs.org/docs/create-a-new-react-app.html)
   - [ ] Homepage/Landingpage
     - [ ] Design
     - [ ] Code
-    - [ ] Connect to Backend
-- [ ] **Test**
-  - [ ] *Additional Step*
-- [ ] **Security**
-  - [ ] *Additional Step*
-- [ ] **Deployment**
-  - [ ] *Additional Step*
   
 0.0.2 
 ---
@@ -102,16 +91,18 @@ Tools
 
 **[Checklist]**
 
-- [ ] **Feature 1**
-  - [ ] Integer vitae nulla ac lectus dictum vestibulum sed vitae purus.
-- [ ] **Feature 2**
-  - [ ] Praesent eleifend lacus quis massa malesuada iaculis.
+- [ ] **README**
+  - [ ] List additional tools used 
+  - [ ] List prerequisite configuration needed   
+  - [ ] Installation instructions
+- [ ] **Backend**
+  - [ ] Migrate Database
 - [ ] **Feature 3**
   - [ ] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
   
 1.0.0
 ---
-> MVP Version. Includes all features from final version of 0.0.0 series
+> MVP Version. Includes all features from the final version of the 0.0.0 series.
 
 **[Features]**
 
@@ -120,15 +111,18 @@ Tools
   - [ ] Praesent eleifend lacus quis massa malesuada iaculis.
   
 - [ ] ***New***
-  - [ ] Integer vitae nulla ac lectus dictum vestibulum sed vitae purus.
-  - [ ] Praesent eleifend lacus quis massa malesuada iaculis.
-  - [ ] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
+  - [ ] **Test**
+    - [ ] Integer vitae nulla ac lectus dictum vestibulum sed vitae purus.
+  - [ ] **Security**
+    - [ ] Praesent eleifend lacus quis massa malesuada iaculis.
+  - [ ] **Deployment**
+    - [ ] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
 
 **[Checklist]**
 
-- [ ] **Feature 1**
+- [ ] **Test**
   - [ ] Integer vitae nulla ac lectus dictum vestibulum sed vitae purus.
-- [ ] **Feature 2**
+- [ ] **Security**
   - [ ] Praesent eleifend lacus quis massa malesuada iaculis.
-- [ ] **Feature 3**
+- [ ] **Deployment**
   - [ ] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
