@@ -27,6 +27,10 @@ Tools
 # Versions
 > All versions include features from previous versions
 
+[Build][0.0.0] Versions
+===
+> Versions for gradually completing project until release of MVP[Most Viable Product] of project. The MVP represents the base requirements needed(or fulfilled) for the project to be used in production(public use/consumption).
+
 0.0.0
 ---
 > Begining of [Build][0.0.0] Series. Describes features implemented in base package.
@@ -99,7 +103,9 @@ Tools
   - [ ] Migrate Database
 - [ ] **Feature 3**
   - [ ] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
-  
+
+===
+
 1.0.0
 ---
 > MVP Version.Beginning of [Upgrade][1.0.0] Series. Includes all features from the final version of the [Build][0.0.0] series.
