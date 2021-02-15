@@ -1,5 +1,6 @@
 Django Starter Kit
 ==================
+[![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 > starter code(and guide) for a django project
 
 Project Description
@@ -26,7 +27,7 @@ Installation
 
 When installing this package you want to install as a dev dependency. It's meant to be a tool for development purposes only
 
-    pipenv install --dev startercode-django
+    pipenv install --dev <package>
 
 Versions
 ---
