@@ -25,13 +25,17 @@ Requirements
 Installation [Tools]
 ---
 
-**python** [website](https://www.python.org/downloads/)
+### **python** 
+
+##### Info: [website](https://www.python.org/downloads/)
 
 Verify if python3 is installed on system
 
     python --version
 
-**pipenv** [website](https://pip.pypa.io/en/stable/user_guide/#user-installs) | [What is pipenv?](https://docs.python-guide.org/dev/virtualenvs/) | [--user?](https://pip.pypa.io/en/stable/user_guide/#user-installs)
+### **pipenv** 
+
+##### Info: [website](https://pip.pypa.io/en/stable/user_guide/#user-installs) | [What is pipenv?](https://docs.python-guide.org/dev/virtualenvs/) | [--user?](https://pip.pypa.io/en/stable/user_guide/#user-installs)
 
 1 . Verify if pip is installed on system
 
@@ -53,18 +57,20 @@ Verify if python3 is installed on system
 
     pipenv install --dev <package>
     
-Installation [Versions]
+Installation
 ---
-
-**[Basic]**
 
 *Option 1* | *Option 2*
 ---------- | ----------
-1 . Clone Repository | 1 . Pip Installation  
-2 . Step | 2 . Step 
+Clone Repository | Pip Installation  
+1 . Step | 1 . Step 
+2 . Step | 2 . Step
 3 . Step | 3 . Step
-4 . Step | 4 . Step
-    
+
+**[Basic]**
+
+
+
 **[Developer]**
 
 **[Production]**
