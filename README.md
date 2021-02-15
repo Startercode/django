@@ -24,6 +24,10 @@ Requirements
 Installation
 ---
 
+When installing this package you want to install as a dev dependency. It's meant to be a tool for development purposes only
+
+    pipenv install --dev startercode-django
+
 Versions
 ---
 
