@@ -1,10 +1,10 @@
 Project Checklist [Basic]
 ---
-> [Basic] Minimal Configuration Needed For A Django Project
+> [Basic] Minimal Configuration
 
 ***Current Version: 0.0.0***
 
-This document is a tool for maintaining, organizing and documenting your project. To get started, first make sure you have all the necessary tools available for with your project it contains information about the files, packages, and libraries that come with the skeleton web app with a Version 0.0.0 checklist, that you can modify for your first deployment. After your pleased with your first deployment. Create versions of your app with additional features to improve the functionality or user experience.
+This document is a tool for maintaining, organizing and documenting your project. To get started, first make sure you have all the necessary dependencies installed. This app comes with a skeleton project named Version[0] . Modify, add to the checklist, and increment versions until you complete your project sans finished testing, security and deployment. Publish Version[1] as your MVP when Testing Security and deployment is finished. After completion of MVP, continue to increment features through additional versions.
 
 Tools
 ---
@@ -13,8 +13,6 @@ Tools
   - Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
 - [Django]()
   - Maecenas laoreet lorem a arcu scelerisque, ut accumsan felis vehicula.
-- [React]()
-  - Praesent eleifend lacus quis massa malesuada iaculis.
 - [fdfd]()
   - Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
 - [vklv]()
@@ -151,3 +149,4 @@ Tools
   - [ ] Integer vitae nulla ac lectus dictum vestibulum sed vitae purus.
 - [ ] **Github Pages**
   - [ ] Praesent eleifend lacus quis massa malesuada iaculis.
+
