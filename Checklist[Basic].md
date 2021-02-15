@@ -27,13 +27,13 @@ Tools
 # Versions
 > All versions include features from previous versions
 
-[Build][0.0.0] Versions
+[Build][0] Versions
 ---
 > Versions for gradually completing project until release of MVP[Most Viable Product] of project. The MVP represents the base requirements needed(or fulfilled) for the project to be used in production(public use/consumption).
 
 0.0.0
 ---
-> Begining of [Build][0.0.0] Series. Describes features implemented in base package.
+> Begining of [Build][0] Series. Describes features implemented in base package.
 
 - [X] **Packaged Features**
   - [X] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
@@ -104,7 +104,9 @@ Tools
 - [ ] **Feature 3**
   - [ ] Curabitur a purus luctus, lobortis nunc sit amet, iaculis nulla.
 
+[Update][1] Versions
 ---
+> Includes the [MVP][1.0.0] Version. The subsequent minor versions are for updating the MVP. Continue to use version [1] until ipdate includes a major new feature, then start with [2].
 
 1.0.0
 ---
