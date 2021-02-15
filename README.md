@@ -25,17 +25,13 @@ Requirements
 Installation [Tools]
 ---
 
-**python**
-
-[website](https://www.python.org/downloads/)
+**python** [website](https://www.python.org/downloads/)
 
 Verify if python3 is installed on system
 
     python --version
 
-**pipenv**
-
-[website](https://pip.pypa.io/en/stable/user_guide/#user-installs) | [What is pipenv?](https://docs.python-guide.org/dev/virtualenvs/) | [--user?](https://pip.pypa.io/en/stable/user_guide/#user-installs)
+**pipenv** [website](https://pip.pypa.io/en/stable/user_guide/#user-installs) | [What is pipenv?](https://docs.python-guide.org/dev/virtualenvs/) | [--user?](https://pip.pypa.io/en/stable/user_guide/#user-installs)
 
 1 . Verify if pip is installed on system
 
@@ -61,8 +57,6 @@ Installation [Versions]
 ---
 
 **[Basic]**
-
-Make sure to add helper markdown files (all .md files beside user created README.md) to .gitignore and/or .env files to prevent uploading to server and/or github.
 
 *Option 1* | *Option 2*
 ---------- | ----------
